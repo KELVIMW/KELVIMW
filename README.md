@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="[mailto:youremail@example.com](https://preview--infra-secure-portfolio.lovable.app/#home)">
-    <img alt="View My Portfolio" src="https://img.shields.io/badge/View%20My%20Portfolio-2dff54?style=for-the-badge&logo=appveyor&logoColor=white" />
+    <img alt="View My Portfolio" src="https://img.shields.io/badge/View%20My%20Portfolio-0AC18E?style=for-the-badge&logo=appveyor&logoColor=white" />
   </a>
 </p>
 
@@ -80,18 +80,6 @@
 
 ## ⚙️ Skill Stack
 
-<p>
-  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-2dff54?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-2dff54?style=for-the-badge&logo=aws&logoColor=white" />
-  <img alt="Security" src="https://img.shields.io/badge/Security-2dff54?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-
-**Tools I Use:** GCP • AWS • Kubernetes • Terraform
-
----
-
-## 🚀 Featured Projects
-
 | Project | Description                              | Tech Stack                       |
 | ------- | ---------------------------------------- | -------------------------------- |
 | 🌐 **Cloud Infra** | Real-time infra monitor built in 24h   | GCP • AWS • Kubernetes • Terraform        |
@@ -131,12 +119,12 @@
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-2dff54?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2dff54?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-0AC18E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0AC18E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=2dff54" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=kelvimw&style=flat-square&color=2dff54" />
 </p>
 
 ---
