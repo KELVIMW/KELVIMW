@@ -108,73 +108,14 @@ Kubernetes85%
 
 Terraform80%
 
-Featured Projects
------------------
-
-### CloudShift 24h
-
-Migrated entire infra from AWS to GCP in 24h, re-architected to microservices
-
-GCP
-
-AWS
-
-Terraform
-
-Kubernetes
-
-[View Project →](https://github.com/yourusername/cloudshift)
-
-### InfraSplit
-
-Split and automated the replication of a 20TB monolithic DB into 5 scalable nodes
-
-MySQL
-
-Python
-
-Docker
-
-CI/CD
-
-[View Project →](https://github.com/yourusername/infrasplit)
-
-### AutoSentinel
-
-Built proactive monitoring system to detect anomalies, errors and misconfigs
-
-Go
-
-Prometheus
-
-Grafana
-
-Machine Learning
-
-[View Project →](https://github.com/yourusername/autosentinel)
-
-### SecurityPulse
-
-Developed scorecard-based automated security audit for GitHub and APIs
-
-TypeScript
-
-Node.js
-
-GitHub Actions
-
-REST APIs
-
-[View Project →](https://github.com/yourusername/securitypulse)
-
 GitHub Stats & Activity
 -----------------------
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvimw&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimw&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kelvimw&theme=dark&hide_border=true)
 
 Values & Mindset
 ----------------
@@ -208,7 +149,7 @@ Let's Connect
 
 [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 
-[github.com/yourusername](https://github.com/yourusername)
+[github.com/yourusername](https://github.com/kelvimw)
 
 [✨ Book a Call](https://cal.com/you)[🔒 Security Review Request](mailto:you@example.com?subject=Security%20Audit%20Request)
 
