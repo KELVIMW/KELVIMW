@@ -16,8 +16,8 @@
 <p align="center"><em>Building resilient, secure, automated systems.</em></p>
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
-    <img alt="Contact Me" src="https://img.shields.io/badge/Contact%20Me-2dff54?style=for-the-badge&logo=maildotru&logoColor=000000" />
+  <a href="[mailto:youremail@example.com](https://preview--infra-secure-portfolio.lovable.app/#home)">
+    <img alt="View My Portfolio" src="https://img.shields.io/badge/View%20My%20Portfolio-2dff54?style=for-the-badge&logo=appveyor&logoColor=000000" />
   </a>
 </p>
 
@@ -75,6 +75,7 @@
 
 ---
 
+
 ## ⚙️ Skill Stack
 
 <p>
@@ -89,32 +90,26 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description                              | Tech Stack                       | Link           |
-| ------- | ---------------------------------------- | -------------------------------- | -------------- |
-| 🌐 **CloudShift 24h** | Real-time infra monitor built in 24h   | GCP • Node.js • Grafana          | [View Project](#) |
-| 🧩 **InfraSplit**     | Microservices debugging toolkit        | Python • gRPC • ELK              | [View Project](#) |
-| 🛡️ **AutoSentinel**   | Self-healing automation for APIs       | Terraform • Bash • Cloud Build   | [View Project](#) |
-| 📊 **SecurityPulse**  | Security incident visualizer           | Python • Grafana • Elastic Stack | [View Project](#) |
+| Project | Description                              | Tech Stack                       |
+| ------- | ---------------------------------------- | -------------------------------- |
+| 🌐 **Cloud Infra** | Real-time infra monitor built in 24h   | GCP • AWS • Kubernetes • Terraform        |
+| 🧩 **Automation**     | Microservices debugging toolkit        | Python • Bash • CI/CD            |
+| 🛡️ **Security**   | Self-healing automation for APIs       | ISO 27001 • LGPD • Pentest   |
+| 📊 **Development**  | Security incident visualizer           | Node.js • Go • PHP • TypeScript  |
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-<p align="left">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kelvimw&show_icons=true&theme=radical&hide_border=true" />
-</p>
-<p align="right">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimw&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img alt="GitHub Stats" height="230em" src="https://github-readme-stats.vercel.app/api?username=kelvimw&show_icons=true&theme=radical&hide_border=true" />
+  <img alt="Top Langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimw&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br clear="both"/>
 
----
-
-## 🏅 Most Used Languages
-
 <p align="center">
-  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvimw&theme=dark&hide_border=true" />
+  <img alt="GitHub Streak Stats" height="350em"  src="https://github-readme-streak-stats.herokuapp.com/?user=kelvimw&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -134,7 +129,6 @@
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://twitter.com/yourusername"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-2dff54?style=for-the-badge&logo=twitter&logoColor=000000" /></a>
   <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-2dff54?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
   <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2dff54?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
 </p>
