@@ -102,14 +102,14 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img alt="GitHub Stats" height="230em" src="https://github-readme-stats.vercel.app/api?username=kelvimw&show_icons=true&theme=radical&hide_border=true" />
-  <img alt="Top Langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimw&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Stats" height="200em" src="https://github-readme-stats.vercel.app/api?username=kelvimw&show_icons=true&theme=radical&hide_border=true" />
+  <img alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimw&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br clear="both"/>
 
 <p align="center">
-  <img alt="GitHub Streak Stats" height="350em"  src="https://github-readme-streak-stats.herokuapp.com/?user=kelvimw&theme=dark&hide_border=true" />
+  <img alt="GitHub Streak Stats" height="330em"  src="https://github-readme-streak-stats.herokuapp.com/?user=kelvimw&theme=dark&hide_border=true" />
 </p>
 
 ---
