@@ -101,10 +101,10 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="left">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kelvimw&show_icons=true&theme=radical&hide_border=true" />
 </p>
 <p align="right">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimw&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br clear="both"/>
@@ -114,7 +114,7 @@
 ## 🏅 Most Used Languages
 
 <p align="center">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=donut&theme=radical&hide_border=true" />
+  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvimw&theme=dark&hide_border=true" />
 </p>
 
 ---
