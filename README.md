@@ -1,53 +1,53 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#2DFF54;">Your Name</span></h1>
+<!-- HEADER TERMINAL STYLE -->
+<div style="background-color:#0d1117; border-radius:8px; padding:20px; font-family:monospace; color:#c9d1d9; line-height:1.6;">
+  <span style="color:#fcd000;">👋 Hi, I'm</span> <span style="color:#2fefb0;">Your Name</span><br><br>
+  <span style="color:#8b949e;">🔧 SPECIALIST IN</span> <span style="color:#f0f6fc;">⛏️ Root Cause</span><br>
+  <span style="color:#f0f6fc;">🧠 Investigation • 🐛 Bug</span><br>
+  <span style="color:#f0f6fc;">Detection • 🔐 Security</span><br>
+  <span style="color:#f0f6fc;">Systems</span><br><br>
+  <span style="color:#8b949e;">💡 Building resilient, secure, and automated systems</span><br><br>
+  <a href="mailto:your@email.com" style="background-color:#2fefb0; color:#0d1117; text-decoration:none; padding:6px 12px; border-radius:6px; font-weight:bold;">📩 Email me</a>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SPECIALIST%20IN-Root%20Cause%20Investigation%20&%20Bug%20Detection-2DFF54?style=flat-square&color=111111" />
-  <br>
-  <strong>Building resilient, secure, and automated systems.</strong>
-  <br><br>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email%20me-2DFF54?style=for-the-badge&color=0a0a0a" /></a>
-</p>
+<br>
 
----
+<!-- ABOUT ME -->
+## 👨‍💻 About Me
 
-## 🧠 About Me
+🔍 I'm a Root Cause Analyst & SRE, who turns triggered alerts into actionable events using experience with automation, cloud infrastructure, and security systems.
 
-👋 I'm a Root Cause Analyst & SRE, who turns triggered alerts into actionable events, using experience with automation, cloud infrastructure and security systems.
+✅ Problem-solving is my Superpower — I see what most miss, investigate deep, and build resilient systems.
 
-🔍 Problem-solving is my superpower — I see what others miss, investigate deeply, and create resilient systems.
-
-🚀 I'm on a mission to improve system health and business impact.
-
----
-
-### 🏆 Key Achievements:
-
-- 🛠️ Helped recover critical infrastructure for a fintech after a zero-day exploit.
-- 🧠 Created a bug-detection framework used in 5+ critical systems.
-- 📈 Reduced incident response time by 60% through automation.
+🎯 I'm on a mission to improve system health and business impact.
 
 ---
 
-### 📚 I bring deep knowledge in:
+## 🏆 Key Achievements:
 
-<p>
-  <code>Root Cause Analysis</code>
-  <code>Cloud Engineering</code>
-  <code>SRE</code>
-  <code>Automation</code>
-  <code>Security Engineering</code>
-  <code>Monitoring</code>
-  <code>Incident Response</code>
-  <code>CI/CD</code>
-  <code>GCP</code>
-  <code>Terraform</code>
-  <code>Bash</code>
-  <code>Python</code>
-  <code>JS</code>
-  <code>Linux</code>
-  <code>Observability</code>
-  <code>Bug Fixing</code>
-</p>
+- 📌 Built multi-region infra & reduced incident rates by **60%**
+- 🔧 Created a custom **bug tracing system** used in 10+ critical apps
+- ☁️ Helped recover infra after a **zero-day exploit** in 2023
+
+---
+
+<!-- KNOWLEDGE TAGS -->
+## 📚 I bring deep knowledge in:
+
+<code>Root Cause Analysis</code>
+<code>Observability</code>
+<code>Monitoring</code>
+<code>Incident Response</code>
+<code>Automation</code>
+<code>Security Engineering</code>
+<code>Cloud (GCP & AWS)</code>
+<code>Terraform</code>
+<code>Kubernetes</code>
+<code>CI/CD</code>
+<code>Bash</code>
+<code>Python</code>
+<code>Linux</code>
+<code>Infrastructure</code>
+<code>Resilience Engineering</code>
 
 ---
 
@@ -62,12 +62,11 @@
 
 ---
 
-## ⚙️ Skill Stack
+<!-- SKILL STACK -->
+## 🛠️ Skill Stack
 
-**Main Stack:**  
-<code>DevOps</code> <code>Cloud</code> <code>Security</code>  
+<kbd>DevOps</kbd> <kbd>Cloud</kbd> <kbd>Security</kbd> <kbd>Resilience</kbd>
 
-**Tools I Use:**
 - GCP  
 - AWS  
 - Kubernetes  
@@ -75,72 +74,95 @@
 
 ---
 
+<!-- PROJECTS -->
 ## 🚀 Featured Projects
 
-### 🌐 CloudShift 24h  
-⏱️ Real-time Infra Monitor — Built in 24h  
-<code>GCP</code> <code>Node.js</code> <code>Grafana</code>  
-
-### 🧩 InfraSplit  
-📦 Microservices Debugging Toolkit  
-<code>Python</code> <code>gRPC</code> <code>ELK</code>  
-
-### 🛡️ AutoSentinel  
-🔒 Self-healing Automation for APIs  
-<code>Terraform</code> <code>Bash</code> <code>Cloud Build</code>  
-
-### 📊 SecurityPulse  
-🧠 Security Incident Visualizer  
-<code>Python</code> <code>Grafana</code> <code>Elastic</code>  
+### 🔹 CloudShift 24h  
+Infra observability tool built in <strong>24h</strong>  
+<sub><code>GCP</code> <code>Node</code> <code>Grafana</code></sub>  
+[🔗 View Project](#)
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical" />
-
-<br clear="both"/>
+### 🔸 InfraSplit  
+Microservices bug tracer & debugger  
+<sub><code>Python</code> <code>gRPC</code> <code>ELK</code></sub>  
+[🔗 View Project](#)
 
 ---
 
-## 🧭 Values & Mindset
+### 🔐 AutoSentinel  
+Self-healing automation & detection for APIs  
+<sub><code>Terraform</code> <code>Bash</code> <code>Cloud Build</code></sub>  
+[🔗 View Project](#)
+
+---
+
+### 🧠 SecurityPulse  
+Security visualization & detection platform  
+<sub><code>Python</code> <code>Grafana</code> <code>Elastic</code></sub>  
+[🔗 View Project](#)
+
+---
+
+<!-- GITHUB STATS -->
+## 📈 GitHub Stats & Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+![Metrics](https://metrics.lecoq.io/yourusername?template=classic&config.timezone=America%2FSao_Paulo)
+
+---
+
+<!-- VALUES -->
+## 💡 Values & Mindset
 
 > “I approach each RPM message as if it were the last one before failure — and always prepare recovery plans.”
 
 ### Key area philosophy is based on:
 
-🛡️ **Resilience First**  
-Design to recover before the unexpected — prevent gracefully, fail safely.
+🔁 **Resilience First**  
+Design to recover before the unexpected. Prevent gracefully, fail safely.
 
 🔐 **Security by Design**  
-Proactive threat reduction mindset — Security belongs everywhere, always.
+Threats are not an afterthought — Security belongs in every stage.
 
 ⚙️ **Automate Everything**  
-Repetition is a sign — automate the unthinkable to unlock the unimaginable.
+Repetition is a signal — automate to unlock scale and consistency.
 
-🧠 **Think in Real Causes**  
-Don't patch symptoms. Identify and solve the core of problems.
+🔎 **Think in Root Causes**  
+Don't patch symptoms. Identify and solve the real issues.
 
 ---
 
+<!-- CONTACT -->
 ## 🤝 Let’s Connect
 
-<p>
-  <a href="https://x.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+- 🐦 [@yourusername](https://twitter.com/yourusername)  
+- 📧 your@email.com  
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/📩%20Email%20Me-2fefb0?style=for-the-badge&color=0d1117&logo=gmail" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/🧠%20Security%20Review%20Request-2fefb0?style=for-the-badge&color=0d1117&logo=security" />
+</a>
 
 ---
 
-> 🧠 _“If you're looking for someone who doesn't just write code, but solves system failures and builds intelligent systems, you're in the right place.”_  
->  
-> **“I turn instability into innovation — faster than most people can identify the issue.”**
-
----
+<div style="background-color:#0d1117; color:#c9d1d9; border-radius:8px; padding:15px; font-style:italic;">
+  If you're looking for someone who doesn't just write code, but solves system failure and builds intelligent systems, you're in the right place.
+  <br><br>
+  <strong style="color:#2fefb0;">“I turn instability into innovation — faster than most people can identify the issue.”</strong>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=2DFF54" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=2fefb0" alt="Profile views" />
 </p>
