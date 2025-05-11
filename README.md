@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="[mailto:youremail@example.com](https://preview--infra-secure-portfolio.lovable.app/#home)">
+  <a href="https://preview--infra-secure-portfolio.lovable.app">
     <img alt="View My Portfolio" src="https://img.shields.io/badge/View%20My%20Portfolio-0AC18E?style=for-the-badge&logo=appveyor&logoColor=white" />
   </a>
 </p>
