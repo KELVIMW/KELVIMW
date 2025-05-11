@@ -10,14 +10,16 @@
 <h1 align="center" style="margin-top: -0.5em;">👋 Hi, I'm <span style="color:#2dff54;">Kelvin</span></h1>
 
 <p align="center">
-  <img alt="Specialist Badge" src="https://img.shields.io/badge/SPECIALIST%20IN-Root%20Cause%20Analysis%20•%20Cloud%20Infrastructure%20•%20Security%20•%20SRE-2dff54?style=for-the-badge&logo=appveyor&logoColor=000000" />
+  Specialist in 🔎 Root Cause Analysis • ☁️ Cloud Infrastructure • 🔐 Security Automation
 </p>
 
-<p align="center"><em>Building resilient, secure, automated systems.</em></p>
+<p align="center">
+  <em>Building resilient systems, automating intelligent detection, and solving complex problems before they escalate.</em>
+</p>
 
 <p align="center">
   <a href="[mailto:youremail@example.com](https://preview--infra-secure-portfolio.lovable.app/#home)">
-    <img alt="View My Portfolio" src="https://img.shields.io/badge/View%20My%20Portfolio-2dff54?style=for-the-badge&logo=appveyor&logoColor=000000" />
+    <img alt="View My Portfolio" src="https://img.shields.io/badge/View%20My%20Portfolio-2dff54?style=for-the-badge&logo=appveyor&logoColor=white" />
   </a>
 </p>
 
@@ -79,9 +81,9 @@
 ## ⚙️ Skill Stack
 
 <p>
-  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-2dff54?style=for-the-badge&logo=gitlab&logoColor=000000" />
-  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-2dff54?style=for-the-badge&logo=aws&logoColor=000000" />
-  <img alt="Security" src="https://img.shields.io/badge/Security-2dff54?style=for-the-badge&logo=owasp&logoColor=000000" />
+  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-2dff54?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-2dff54?style=for-the-badge&logo=aws&logoColor=white" />
+  <img alt="Security" src="https://img.shields.io/badge/Security-2dff54?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
 **Tools I Use:** GCP • AWS • Kubernetes • Terraform
@@ -129,8 +131,8 @@
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-2dff54?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2dff54?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
+  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-2dff54?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2dff54?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
