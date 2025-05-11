@@ -1,7 +1,18 @@
 <h1 align="center"> Hi, I'm <span style="color:#00FFC2;">Your Name</span></h1>
-<p align="center">  <code> DevSecOps</code> &nbsp;|&nbsp;   <code> Cloud</code> &nbsp;|&nbsp;   <code> Automation</code> &nbsp;|&nbsp;   <code> Security</code></p>
+<p align="center">
+ <code> DevSecOps</code> &nbsp;|&nbsp;
+ <code> Cloud</code> &nbsp;|&nbsp;
+ <code> Automation</code> &nbsp;|&nbsp;
+ <code> Security</code>
+</p>
+
 <p align="center">Building resilient, secure, and automated systems.</p>
-<p align="center">  <a href="mailto:youremail@example.com">    <img src="https://img.shields.io/badge/-Let's Connect-00FFC2?style=for-the-badge&logo=gmail&logoColor=black" alt="Let's Connect" />  </a></p>
+
+<p align="center">
+ <a href="mailto:youremail@example.com">
+ <img src="https://img.shields.io/badge/-Let's Connect-00FFC2?style=for-the-badge&logo=gmail&logoColor=black" alt="Let's Connect" />
+ </a>
+</p>
 ---
 ## About Me
 I'm a Cloud & DevSecOps Engineer with a strong focus on secure, scalable, and automated infrastructure. With over X years of experience, I design resilient architectures and build security-first systems.
