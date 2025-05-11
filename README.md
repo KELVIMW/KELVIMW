@@ -1,6 +1,7 @@
 profile.md
 
-# 👋 Hi, I'm Your Name
+👋 Hi, I'm Your Name
+====================
 
 ### Specialist in 🔎 Root Cause Analysis • ☁️ Cloud Infrastructure • 🔐 Security Automation
 
@@ -8,7 +9,8 @@ Building resilient systems, automating intelligent detection, and solving comple
 
 [View My Portfolio](https://your-site.com)[Contact Me](mailto:you@example.com)
 
-## About Me
+About Me
+--------
 
 I'm a **Tech Lead in InfraSec & SRE**, with over **5 years** of experience solving complex technical challenges across **cloud platforms**, **security**, and **automated systems**.
 
@@ -16,9 +18,9 @@ I'm a **Tech Lead in InfraSec & SRE**, with over **5 years** of experience solvi
 
 ### Key Achievements:
 
--   I've migrated entire infrastructures across continents in under 24 hours
--   Automated recovery of databases over 20TB
--   Led security initiatives aligned with ISO 27001, LGPD, and pentest validations
+* I've migrated entire infrastructures across continents in under 24 hours
+* Automated recovery of databases over 20TB
+* Led security initiatives aligned with ISO 27001, LGPD, and pentest validations
 
 ### I bring deep knowledge in:
 
@@ -78,7 +80,8 @@ SRE
 
 Security teams
 
-## Certifications & Credentials
+Certifications & Credentials
+----------------------------
 
 Google Cloud Certified – Associate Cloud Engineer
 
@@ -92,7 +95,8 @@ Pentest & Ethical Hacking Fundamentals
 
 LGPD Compliance Training
 
-## Skill Stack
+Skill Stack
+-----------
 
 Cloud InfraAutomationSecurityDevelopment
 
@@ -104,7 +108,8 @@ Kubernetes85%
 
 Terraform80%
 
-## Featured Projects
+Featured Projects
+-----------------
 
 ### CloudShift 24h
 
@@ -162,7 +167,8 @@ REST APIs
 
 [View Project →](https://github.com/yourusername/securitypulse)
 
-## GitHub Stats & Activity
+GitHub Stats & Activity
+-----------------------
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
 
@@ -170,7 +176,8 @@ REST APIs
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
 
-## Values & Mindset
+Values & Mindset
+----------------
 
 > "Systems fail. What matters is how fast and how well you recover and improve."
 
@@ -194,7 +201,8 @@ Repetition is waste — automate the predictable to focus on solving new problem
 
 Don't patch symptoms. Identify and solve the source of problems.
 
-## Let's Connect
+Let's Connect
+-------------
 
 [you@example.com](mailto:you@example.com)
 
@@ -210,4 +218,4 @@ I turn instability into innovation — faster than most people can identify the 
 
 Let's solve something big together.
 
-[Edit with ×](https://lovable.dev/projects/0214dc3a-ef0d-4738-beb4-ba18cf8096d1?utm_source=gpt-engineer-badge)
+[Edit with ×](https://lovable.dev/projects/0214dc3a-ef0d-4738-beb4-ba18cf8096d1?utm_source=gpt-engineer-badge) // Don't show the lovable-badge if the page is in an iframe or if it's being rendered by puppeteer (screenshot service) if (navigator.userAgent.includes('puppeteer')) { // the page is in an iframe var badge = document.getElementById('lovable-badge'); if (badge) { badge.style.display = 'none'; } } // Add click event listener to close button var closeButton = document.getElementById('lovable-badge-close'); if (closeButton) { closeButton.addEventListener('click', function(event) { event.preventDefault(); event.stopPropagation(); var badge = document.getElementById('lovable-badge'); if (badge) { badge.style.display = 'none'; } }); }
