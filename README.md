@@ -1,137 +1,115 @@
-<!-- Top “terminal” window with Mac traffic lights -->
+<!-- MacOS-like Terminal Header -->
 <p align="center">
-  <span style="font-size:1.2em;">
-    <span style="color:#ff5f57;">●</span>
-    <span style="color:#ffbd2e;">●</span>
-    <span style="color:#28c940;">●</span>
-  </span>
+  <img src="https://img.shields.io/badge/●-FF5F57?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/●-28C940?style=flat-square&logoColor=white" />
 </p>
 
-<h1 align="center" style="margin-top: -0.5em;">👋 Hi, I'm <span style="color:#2dff54;">Kelvin</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#2dff54;">Kelvin</span></h1>
 
 <p align="center">
-  Specialist in 🔎 Root Cause Analysis • ☁️ Cloud Infrastructure • 🔐 Security Automation
-</p>
-
-<p align="center">
-  <em>Building resilient systems, automating intelligent detection, and solving complex problems before they escalate.</em>
+  <b>Root Cause Analyst • Cloud Infrastructure Engineer • Security Enthusiast</b><br>
+  <em>Turning incidents into insights and building robust, intelligent systems.</em>
 </p>
 
 <p align="center">
-  <a href="https://preview--infra-secure-portfolio.lovable.app">
-    <img alt="View My Portfolio" src="https://img.shields.io/badge/View%20My%20Portfolio-0AC18E?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <a href="https://preview--infra-secure-portfolio.lovable.app" target="_blank">
+    <img alt="View My Portfolio" src="https://img.shields.io/badge/View%20Portfolio-0AC18E?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-👋 I’m a Root Cause Analyst & SRE, who turns triggered alerts into actionable events, using experience with automation, cloud infrastructure and security systems.
+I'm a system-minded builder with a knack for uncovering hidden bugs and designing fail-safe infrastructures.  
+I specialize in:
 
-🔍 Problem-solving is my superpower — I see what others miss, investigate deeply, and create resilient systems.
+- 🔎 Root Cause Analysis (RCA) and post-mortems
+- ☁️ Cloud Infrastructure (GCP, Terraform, CI/CD)
+- 🔐 Security Monitoring & Automation
+- 🔧 System Resilience Engineering
 
-🚀 I’m on a mission to improve system health and business impact.
-
----
-
-## 🏆 Key Achievements
-
-- 🛠️ Helped recover critical infrastructure for a fintech after a zero-day exploit.  
-- 🧠 Created a bug-detection framework used in 5+ critical systems.  
-- 📈 Reduced incident response time by 60% through automation.  
+I thrive in fast-paced environments where reliability and proactive problem-solving are key.
 
 ---
 
-## 📚 Deep Knowledge In
+## 🧬 Background & Traits
 
-<p>
-  <code>Root Cause Analysis</code>
-  <code>Cloud Engineering</code>
-  <code>SRE</code>
-  <code>Automation</code>
-  <code>Security Engineering</code>
-  <code>Monitoring</code>
-  <code>Incident Response</code>
-  <code>CI/CD</code>
-  <code>GCP</code>
-  <code>Terraform</code>
-  <code>Bash</code>
-  <code>Python</code>
-  <code>JavaScript</code>
-  <code>Linux</code>
-  <code>Observability</code>
-  <code>Bug Fixing</code>
-</p>
+- 🧠 Deep Analytical Thinking  
+- 🛠️ Passionate about Systems Observability  
+- 🧩 Loves breaking down complexity  
+- 🛡️ Security-aware by design  
+- 🔁 Obsessed with automation  
 
 ---
 
-## 📜 Certifications & Credentials
+## 🏆 Achievements
+
+- 🔥 Reduced incident resolution time by 60% through smart automation  
+- 🛠️ Recovered mission-critical systems after 0-day exploit  
+- 🧠 Built a custom debugging toolkit now used by multiple teams  
+- 📉 Reduced alert fatigue by 40% via log intelligence  
+
+---
+
+## 📚 Tech Stack & Specialties
+
+| Domain | Stack |
+| ------ | ----- |
+| ☁️ Cloud Infra | GCP • Terraform • Kubernetes • CI/CD |
+| 🧠 RCA & Monitoring | Sentry • Grafana • Prometheus • Elastic |
+| 🧰 Automation | Python • Bash • GitHub Actions • Webhooks |
+| 🔐 Security | ISO 27001 • Pentest • Secrets Management |
+| 🖥️ Dev Tools | Node.js • Go • Linux • GitOps |
+
+---
+
+## 📜 Certifications
 
 - ✅ Google Cloud Certified: Associate Cloud Engineer  
-- ✅ ISO 27001 Security Foundation  
 - ✅ DevSecOps Essentials  
 - ✅ Advanced Python Automation  
+- ✅ ISO 27001 Security Foundation  
 - ✅ Ethical Hacking Fundamentals  
-- ✅ LGPD Compliance Training  
 
 ---
 
-
-## ⚙️ Skill Stack
-
-| Project | Description                              | Tech Stack                       |
-| ------- | ---------------------------------------- | -------------------------------- |
-| 🌐 **Cloud Infra** | Real-time infra monitor built in 24h   | GCP • AWS • Kubernetes • Terraform        |
-| 🧩 **Automation**     | Microservices debugging toolkit        | Python • Bash • CI/CD            |
-| 🛡️ **Security**   | Self-healing automation for APIs       | ISO 27001 • LGPD • Pentest   |
-| 📊 **Development**  | Security incident visualizer           | Node.js • Go • PHP • TypeScript  |
-
----
-
-## 📊 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" height="200em" src="https://github-readme-stats.vercel.app/api?username=kelvimw&show_icons=true&theme=radical&hide_border=true" />
-  <img alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimw&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvimw&show_icons=true&theme=github_dark&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvimw&layout=compact&theme=github_dark&hide_border=true" height="180em" />
 </p>
 
-<br clear="both"/>
-
 <p align="center">
-  <img alt="GitHub Streak Stats" height="330em"  src="https://github-readme-streak-stats.herokuapp.com/?user=kelvimw&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvimw&theme=dark&hide_border=true" height="230em" />
 </p>
 
 ---
 
-## 🧭 Values & Mindset
+## 🧭 Philosophy
 
-> “I approach each RPM message as if it were the last one before failure — and always prepare recovery plans.”
+> “I don’t just fix problems — I reveal the *why* behind them and architect smarter systems for tomorrow.”
 
-**Philosophy Based On:**  
-- 🛡️ **Resilience First** — Prevent gracefully, fail safely.  
-- 🔐 **Security by Design** — Security belongs everywhere, always.  
-- ⚙️ **Automate Everything** — Eliminate toil; unlock creativity.  
-- 🧠 **Think in Real Causes** — Solve core problems, not symptoms.  
+- 🛠️ Systems must self-heal and notify before failing  
+- ⚙️ Every alert must map to a measurable outcome  
+- 🔍 Truth hides in logs — follow the signal  
+- 🔐 Security is proactive, not reactive  
 
 ---
 
 ## 🤝 Let’s Connect
 
-<p>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-0AC18E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0AC18E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/email-0AC18E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/linkedin-0AC18E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=kelvimw&style=flat-square&color=2dff54" />
+  <img src="https://komarev.com/ghpvc/?username=kelvimw&style=flat-square&color=2dff54" />
 </p>
-
----
-
-<div align="center" style="background:#111111;padding:1em;border-radius:8px;">
-  <p style="color:#ffffff;max-width:600px;">
-    “If you're looking for someone who doesn't just write code, but solves system failures and builds intelligent systems, you're in the right place.”  
-    <strong style="color:#2dff54;">I turn instability into innovation — faster than most people can identify the issue.</strong>
-  </p>
-</div>
